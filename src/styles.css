@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.products {
+  background-color: aqua;
+  border: 1px solid red;
+  display: inline-grid;
+  position: relative;
+  width: 20%;
+  min-height: 100px;
+  margin: 10px;
+}
+.brand {
+  font-weight: bold;
+}
+.rating {
+  padding-left: 50px;
+}
